@@ -2,7 +2,7 @@
 Basic shopping list web application.
 *(Using the MERN stack)*
 
-###DESIGN
+###DESIGN###
 ####Model
 Model layer - representation of the data and logic
 
